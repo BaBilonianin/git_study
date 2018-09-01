@@ -1,1 +1,1 @@
-Делайте хорошие *Pull request* ы
+Делайте хорошие *Pull request* ы contrib
